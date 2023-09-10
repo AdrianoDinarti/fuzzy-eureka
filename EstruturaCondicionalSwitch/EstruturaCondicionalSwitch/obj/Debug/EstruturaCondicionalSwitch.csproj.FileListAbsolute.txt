@@ -1,0 +1,7 @@
+C:\cursoC#\EstruturaCondicionalSwitch\EstruturaCondicionalSwitch\bin\Debug\EstruturaCondicionalSwitch.exe.config
+C:\cursoC#\EstruturaCondicionalSwitch\EstruturaCondicionalSwitch\bin\Debug\EstruturaCondicionalSwitch.exe
+C:\cursoC#\EstruturaCondicionalSwitch\EstruturaCondicionalSwitch\bin\Debug\EstruturaCondicionalSwitch.pdb
+C:\cursoC#\EstruturaCondicionalSwitch\EstruturaCondicionalSwitch\obj\Debug\EstruturaCondicionalSwitch.csproj.AssemblyReference.cache
+C:\cursoC#\EstruturaCondicionalSwitch\EstruturaCondicionalSwitch\obj\Debug\EstruturaCondicionalSwitch.csproj.CoreCompileInputs.cache
+C:\cursoC#\EstruturaCondicionalSwitch\EstruturaCondicionalSwitch\obj\Debug\EstruturaCondicionalSwitch.exe
+C:\cursoC#\EstruturaCondicionalSwitch\EstruturaCondicionalSwitch\obj\Debug\EstruturaCondicionalSwitch.pdb

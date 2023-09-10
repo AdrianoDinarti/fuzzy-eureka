@@ -1,0 +1,7 @@
+C:\cursoC#\MetodosFuncao\MetodosFuncao\bin\Debug\MetodosFuncao.exe.config
+C:\cursoC#\MetodosFuncao\MetodosFuncao\bin\Debug\MetodosFuncao.exe
+C:\cursoC#\MetodosFuncao\MetodosFuncao\bin\Debug\MetodosFuncao.pdb
+C:\cursoC#\MetodosFuncao\MetodosFuncao\obj\Debug\MetodosFuncao.csproj.AssemblyReference.cache
+C:\cursoC#\MetodosFuncao\MetodosFuncao\obj\Debug\MetodosFuncao.csproj.CoreCompileInputs.cache
+C:\cursoC#\MetodosFuncao\MetodosFuncao\obj\Debug\MetodosFuncao.exe
+C:\cursoC#\MetodosFuncao\MetodosFuncao\obj\Debug\MetodosFuncao.pdb

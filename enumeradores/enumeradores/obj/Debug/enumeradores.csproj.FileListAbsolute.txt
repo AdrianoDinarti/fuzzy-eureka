@@ -1,0 +1,7 @@
+C:\cursoC#\enumeradores\enumeradores\bin\Debug\enumeradores.exe.config
+C:\cursoC#\enumeradores\enumeradores\bin\Debug\enumeradores.exe
+C:\cursoC#\enumeradores\enumeradores\bin\Debug\enumeradores.pdb
+C:\cursoC#\enumeradores\enumeradores\obj\Debug\enumeradores.csproj.AssemblyReference.cache
+C:\cursoC#\enumeradores\enumeradores\obj\Debug\enumeradores.csproj.CoreCompileInputs.cache
+C:\cursoC#\enumeradores\enumeradores\obj\Debug\enumeradores.exe
+C:\cursoC#\enumeradores\enumeradores\obj\Debug\enumeradores.pdb

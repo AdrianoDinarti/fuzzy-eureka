@@ -1,0 +1,7 @@
+C:\cursoC#\ValueTypesReferenceTypes\ValueTypesReferenceTypes\bin\Debug\ValueTypesReferenceTypes.exe.config
+C:\cursoC#\ValueTypesReferenceTypes\ValueTypesReferenceTypes\bin\Debug\ValueTypesReferenceTypes.exe
+C:\cursoC#\ValueTypesReferenceTypes\ValueTypesReferenceTypes\bin\Debug\ValueTypesReferenceTypes.pdb
+C:\cursoC#\ValueTypesReferenceTypes\ValueTypesReferenceTypes\obj\Debug\ValueTypesReferenceTypes.csproj.AssemblyReference.cache
+C:\cursoC#\ValueTypesReferenceTypes\ValueTypesReferenceTypes\obj\Debug\ValueTypesReferenceTypes.csproj.CoreCompileInputs.cache
+C:\cursoC#\ValueTypesReferenceTypes\ValueTypesReferenceTypes\obj\Debug\ValueTypesReferenceTypes.exe
+C:\cursoC#\ValueTypesReferenceTypes\ValueTypesReferenceTypes\obj\Debug\ValueTypesReferenceTypes.pdb

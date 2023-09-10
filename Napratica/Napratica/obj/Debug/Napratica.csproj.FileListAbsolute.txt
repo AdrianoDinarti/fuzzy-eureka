@@ -1,0 +1,7 @@
+C:\cursoC#\Napratica\Napratica\obj\Debug\Napratica.csproj.AssemblyReference.cache
+C:\cursoC#\Napratica\Napratica\obj\Debug\Napratica.csproj.CoreCompileInputs.cache
+C:\cursoC#\Napratica\Napratica\bin\Debug\Napratica.exe.config
+C:\cursoC#\Napratica\Napratica\bin\Debug\Napratica.exe
+C:\cursoC#\Napratica\Napratica\bin\Debug\Napratica.pdb
+C:\cursoC#\Napratica\Napratica\obj\Debug\Napratica.exe
+C:\cursoC#\Napratica\Napratica\obj\Debug\Napratica.pdb

@@ -1,0 +1,7 @@
+C:\cursoC#\calcularIMC\calcularIMC\bin\Debug\calcularIMC.exe.config
+C:\cursoC#\calcularIMC\calcularIMC\bin\Debug\calcularIMC.exe
+C:\cursoC#\calcularIMC\calcularIMC\bin\Debug\calcularIMC.pdb
+C:\cursoC#\calcularIMC\calcularIMC\obj\Debug\calcularIMC.csproj.AssemblyReference.cache
+C:\cursoC#\calcularIMC\calcularIMC\obj\Debug\calcularIMC.csproj.CoreCompileInputs.cache
+C:\cursoC#\calcularIMC\calcularIMC\obj\Debug\calcularIMC.exe
+C:\cursoC#\calcularIMC\calcularIMC\obj\Debug\calcularIMC.pdb

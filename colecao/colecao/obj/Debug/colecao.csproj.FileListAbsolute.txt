@@ -1,0 +1,7 @@
+C:\cursoC#\colecao\colecao\bin\Debug\colecao.exe.config
+C:\cursoC#\colecao\colecao\bin\Debug\colecao.exe
+C:\cursoC#\colecao\colecao\bin\Debug\colecao.pdb
+C:\cursoC#\colecao\colecao\obj\Debug\colecao.csproj.AssemblyReference.cache
+C:\cursoC#\colecao\colecao\obj\Debug\colecao.csproj.CoreCompileInputs.cache
+C:\cursoC#\colecao\colecao\obj\Debug\colecao.exe
+C:\cursoC#\colecao\colecao\obj\Debug\colecao.pdb

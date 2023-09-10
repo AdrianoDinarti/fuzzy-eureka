@@ -1,0 +1,7 @@
+C:\cursoC#\comentario\comentario\bin\Debug\comentario.exe.config
+C:\cursoC#\comentario\comentario\bin\Debug\comentario.exe
+C:\cursoC#\comentario\comentario\bin\Debug\comentario.pdb
+C:\cursoC#\comentario\comentario\obj\Debug\comentario.csproj.AssemblyReference.cache
+C:\cursoC#\comentario\comentario\obj\Debug\comentario.csproj.CoreCompileInputs.cache
+C:\cursoC#\comentario\comentario\obj\Debug\comentario.exe
+C:\cursoC#\comentario\comentario\obj\Debug\comentario.pdb

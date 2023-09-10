@@ -1,0 +1,7 @@
+C:\cursoC#\Cronometro\Cronometro\bin\Debug\Cronometro.exe.config
+C:\cursoC#\Cronometro\Cronometro\bin\Debug\Cronometro.exe
+C:\cursoC#\Cronometro\Cronometro\bin\Debug\Cronometro.pdb
+C:\cursoC#\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.AssemblyReference.cache
+C:\cursoC#\Cronometro\Cronometro\obj\Debug\Cronometro.csproj.CoreCompileInputs.cache
+C:\cursoC#\Cronometro\Cronometro\obj\Debug\Cronometro.exe
+C:\cursoC#\Cronometro\Cronometro\obj\Debug\Cronometro.pdb

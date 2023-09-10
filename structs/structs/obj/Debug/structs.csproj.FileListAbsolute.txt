@@ -1,0 +1,7 @@
+C:\cursoC#\structs\structs\bin\Debug\structs.exe.config
+C:\cursoC#\structs\structs\bin\Debug\structs.exe
+C:\cursoC#\structs\structs\bin\Debug\structs.pdb
+C:\cursoC#\structs\structs\obj\Debug\structs.csproj.AssemblyReference.cache
+C:\cursoC#\structs\structs\obj\Debug\structs.csproj.CoreCompileInputs.cache
+C:\cursoC#\structs\structs\obj\Debug\structs.exe
+C:\cursoC#\structs\structs\obj\Debug\structs.pdb

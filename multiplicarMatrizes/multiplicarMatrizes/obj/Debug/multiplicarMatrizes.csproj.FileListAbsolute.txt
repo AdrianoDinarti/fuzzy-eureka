@@ -1,0 +1,7 @@
+C:\cursoC#\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\multiplicarMatrizes.exe.config
+C:\cursoC#\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\multiplicarMatrizes.exe
+C:\cursoC#\multiplicarMatrizes\multiplicarMatrizes\bin\Debug\multiplicarMatrizes.pdb
+C:\cursoC#\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\multiplicarMatrizes.csproj.AssemblyReference.cache
+C:\cursoC#\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\multiplicarMatrizes.csproj.CoreCompileInputs.cache
+C:\cursoC#\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\multiplicarMatrizes.exe
+C:\cursoC#\multiplicarMatrizes\multiplicarMatrizes\obj\Debug\multiplicarMatrizes.pdb

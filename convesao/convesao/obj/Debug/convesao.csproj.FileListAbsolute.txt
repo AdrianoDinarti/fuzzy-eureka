@@ -1,0 +1,7 @@
+C:\cursoC#\convesao\convesao\bin\Debug\convesao.exe.config
+C:\cursoC#\convesao\convesao\bin\Debug\convesao.exe
+C:\cursoC#\convesao\convesao\bin\Debug\convesao.pdb
+C:\cursoC#\convesao\convesao\obj\Debug\convesao.csproj.AssemblyReference.cache
+C:\cursoC#\convesao\convesao\obj\Debug\convesao.csproj.CoreCompileInputs.cache
+C:\cursoC#\convesao\convesao\obj\Debug\convesao.exe
+C:\cursoC#\convesao\convesao\obj\Debug\convesao.pdb
